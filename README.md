@@ -1,7 +1,6 @@
 - I’m @MrVaartush
-- interested in C# (.NET) (maybe C++ in the future). Like to play games.
-- currently learning Godot C#
-- ⚡ Fun fact: all people r dumb in some ways
+- interested in C# (.NET technologies).
+- currently learning Unity C# + in seearch of pet project
 
 <!---
 MrVaartush/MrVaartush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
