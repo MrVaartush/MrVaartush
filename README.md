@@ -1,5 +1,5 @@
 - I’m @MrVaartush
-- interested in C# (.NET technologies).
+- interested in C# (.NET/Entity framework tech).
 - currently learning Unity C# + in seearch of pet project
 
 <!---
